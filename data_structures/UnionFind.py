@@ -15,5 +15,3 @@ class UnionFind:
         boss = self.getParent(parent)
         self.UF[child] = boss
         return
-        
-
